@@ -1,6 +1,6 @@
-# Checkpoint 2 — Machine Learning & Modelling / Statistical Computing with R & Python
+# Checkpoint 1/2 — Machine Learning & Modelling / Statistical Computing with R & Python
 
-**Curso:** Tecnólogo em Inteligência Artificial — FIAP
+**Curso:** Inteligência Artificial — FIAP
 **Disciplinas:** Machine Learning & Modelling e Statistical Computing with R & Python
 **Integrantes:** Gustavo Correia · Fabricio Cantuário
 **Dataset:** [IRIS](https://archive.ics.uci.edu/dataset/53/iris) (via `scikit-learn`)
